@@ -25,9 +25,6 @@ I'm a passionate developer from Korea who loves coding and open source, especial
 - 🤔 I’m looking for help with **developing new AI models for predicting drug interactions**
 - 💬 Ask me about **AI in pharmaceuticals, Python, and machine learning**
 - 📫 How to reach me: [castle9612@gmail.com](mailto:castle9612@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring the intersection of AI and biology
-
 ---
 
 ## 🛠️ My Tech Stack
