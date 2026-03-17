@@ -96,9 +96,9 @@ Currently exploring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=castle9612&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castle9612&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -108,7 +108,7 @@ Currently exploring
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=castle9612&theme=tokyonight"/>
 
 </div>
 
@@ -116,14 +116,14 @@ Currently exploring
 
 # Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=castle9612&theme=tokyo-night"/>
 
 ---
 
 # Contact
 
 GitHub
-https://github.com/YOUR_USERNAME
+https://github.com/castle9612
 
 ---
 
