@@ -1,125 +1,139 @@
 <div align="center">
 
-# Machine Learning / AI Research Developer
+# Machine Learning Research Developer
 
-Molecular Machine Learning • Drug Discovery AI • Graph Neural Networks
+Molecular Machine Learning • AI Search Systems • Graph Neural Networks
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;Drug+Discovery+AI;Graph+Neural+Networks;AI+Systems&center=true&width=520&height=40">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Molecular+Machine+Learning;Drug+Discovery+AI;Graph+Neural+Networks;AI+Search+Systems&center=true&width=520&height=40">
+
+![visitors](https://komarev.com/ghpvc/?username=castle9612)
 
 </div>
 
 ---
 
-# Research Overview
+# Abstract
 
-AI 기반 분자 데이터 분석과 머신러닝 모델 구현을 중심으로 연구 및 개발을 진행하고 있습니다.
+This profile focuses on implementing machine learning systems and research-driven AI applications.
 
-관심 분야
+The main areas of work include molecular machine learning, AI search systems, and practical machine learning pipelines.
+
+Current work emphasizes the integration of data processing, machine learning models, and system implementation.
+
+---
+
+# Research Areas
 
 * Drug Discovery AI
 * Molecular Representation Learning
 * Graph Neural Networks
-* Machine Learning for Molecular Data
-* AI System Implementation
+* AI-based Search Systems
+* Machine Learning System Design
 
 ---
 
-# Research Interests
-
-* Molecular Machine Learning
-* Drug Side Effect Prediction
-* Graph Neural Networks
-* Molecular Feature Engineering
-* AI Pipeline Architecture
-
----
-
-# Methods / Technical Skills
-
-### Programming
-
-Python
-Java
+# Methods
 
 ### Machine Learning
 
-PyTorch
-HuggingFace Transformers
-Scikit-learn
+* PyTorch
+* HuggingFace Transformers
+* Scikit-learn
 
 ### Molecular Data Processing
 
-RDKit
-SMILES Processing
-Morgan Fingerprints
-Tanimoto Similarity
-
-### Backend Systems
-
-Spring Boot
-JPA / Hibernate
-MySQL
-Docker
+* RDKit
+* SMILES representation
+* Morgan Fingerprints
+* Tanimoto Similarity
 
 ### Data Processing
 
-PCA
-LDA
-Dimensionality Reduction
-Feature Engineering
+* PCA
+* LDA
+* Feature Engineering
+* Dimensionality Reduction
+
+### Systems
+
+* Python
+* Java
+* Spring Boot
+* MySQL
+* Docker
 
 ---
 
-# Selected Research Projects
+# Experiments
 
 ## Drug Side Effect Prediction
 
-분자 구조 데이터를 이용한 약물 부작용 예측 머신러닝 프로젝트.
+Machine learning experiment for predicting drug side effects from molecular structures.
 
-Research Components
+Approach
 
 * SMILES molecular structure processing
-* Morgan fingerprint feature generation
-* Tanimoto similarity matrix
-* PCA / LDA dimensionality reduction
+* Morgan fingerprint feature extraction
+* Similarity matrix generation using Tanimoto similarity
+* Dimensionality reduction using PCA and LDA
 * Binary classification modeling
 
 Technologies
 
-Python
-RDKit
-Scikit-learn
+Python • RDKit • Scikit-learn
+
+---
+
+# Systems
+
+## AI Image Search System
+
+Machine learning based image retrieval system.
+
+System Components
+
+* Image feature extraction
+* Feature vector similarity comparison
+* Similar image retrieval
+* Efficient similarity search pipeline
+
+---
+
+## AI Research Paper Search System
+
+Semantic research paper retrieval system.
+
+System Components
+
+* Text embedding generation
+* Semantic similarity search
+* Query-based research paper retrieval
+* Information retrieval pipeline
 
 ---
 
 ## AI Video Subtitle Generator
 
-영상 입력 데이터를 기반으로 자막을 생성하고 처리된 영상을 출력하는 AI 파이프라인 시스템.
+AI pipeline for generating subtitles from video data.
 
 System Components
 
 * Video download link processing
 * Automatic subtitle generation
 * Korean subtitle rendering
-* Downloadable processed video
-* Automated file cleanup system
-
-Technologies
-
-Python
-HuggingFace models
-Video processing pipeline
+* Processed video output
+* Automatic server file cleanup
 
 ---
 
 # Current Work
 
-현재 다음 주제 중심으로 실험 및 연구를 진행하고 있습니다.
+Current exploration includes
 
 * Graph Neural Networks
-* Molecular data representation learning
+* Molecular representation learning
 * Transfer learning for molecular prediction
-* AI 기반 서비스 시스템
+* AI search systems
 
 ---
 
@@ -135,7 +149,7 @@ Video processing pipeline
 
 ---
 
-# Contribution Activity
+# Contribution
 
 <div align="center">
 
@@ -145,7 +159,7 @@ Video processing pipeline
 
 ---
 
-# Research Graph
+# Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=castle9612&theme=tokyo-night"/>
 
@@ -154,8 +168,6 @@ Video processing pipeline
 # Contact
 
 GitHub
-https://github.com/YOUR_USERNAME
+https://github.com/castle9612
 
 ---
-
-⬇ Check my pinned repositories below
