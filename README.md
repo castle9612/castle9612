@@ -9,6 +9,7 @@ Building machine learning pipelines for **drug discovery, molecular representati
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-castle9612-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/castle9612)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayoon%20Moon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%9C%A4-%EB%AC%B8-a8808539a/)
 [![Focus](https://img.shields.io/badge/Focus-Biomedical%20AI%20%7C%20Pharmaceutical%20AI-0F766E?style=for-the-badge)](#)
 [![ML](https://img.shields.io/badge/Core-Molecular%20ML%20%7C%20Medical%20AI-2563EB?style=for-the-badge)](#)
 [![Systems](https://img.shields.io/badge/Systems-LLM%20%7C%20Search%20%7C%20Backend-7C3AED?style=for-the-badge)](#)
