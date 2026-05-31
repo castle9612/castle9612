@@ -1,6 +1,6 @@
 <div align="center">
 
-# Moon Sungyun · castle9612
+# Moon Seongyun · castle9612
 
 ### Biomedical / Pharmaceutical AI Developer
 
