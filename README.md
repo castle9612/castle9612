@@ -1,56 +1,71 @@
 <div align="center">
 
-# castle9612
+# Moon Sungyun | castle9612
 
-### AI & Backend Developer  
-Building machine learning systems, data-driven experiments, and production-oriented web services.
+### Biomedical & Pharmaceutical AI Developer
+
+I build machine learning pipelines for molecular, medical, and biological data, with additional experience in backend systems for real-world service deployment.
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-castle9612-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/castle9612)
-[![Focus](https://img.shields.io/badge/Focus-AI%20Research%20%7C%20Backend%20Engineering-2563EB?style=for-the-badge)](#)
-[![Location](https://img.shields.io/badge/Location-South%20Korea-0F766E?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Focus-Biomedical%20AI%20%7C%20Drug%20Discovery%20AI-0F766E?style=for-the-badge)](#)
+[![Core](https://img.shields.io/badge/Core-ML%20Research%20%7C%20Experiment%20Engineering-2563EB?style=for-the-badge)](#)
+[![Backend](https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Data%20Systems-6DB33F?style=for-the-badge)](#)
+
+<br/>
+
+**Target Field:** Medical AI · Pharmaceutical AI · Molecular Machine Learning · Clinical/Healthcare Data Systems
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-I am a developer focused on **AI modeling, experiment engineering, and backend service development**.  
-My work spans molecular property prediction, drug side-effect prediction, fake voice detection, tabular medical classification, sales conversion prediction, and Spring Boot-based web services.
+I am a developer focused on **biomedical and pharmaceutical AI**, especially machine learning for molecular structures, drug side effects, medical tabular data, and healthcare-related prediction tasks.
 
-I care about more than simply running models. I focus on building reproducible pipelines, designing validation strategies, comparing feature representations, and connecting experimental results to practical systems. Apparently that is what humans call “being responsible with code.”
+My main strength is not simply training models and hoping the loss curve behaves like a civilized creature. I focus on the full experimental workflow: **data preprocessing, molecular representation, feature engineering, validation design, model comparison, result interpretation, and reproducible implementation**.
+
+I also have backend development experience with **Spring Boot, JPA, MySQL, authentication, admin workflows, and deployment-oriented project structure**, which helps me connect research prototypes to usable systems.
 
 ---
 
-## Core Strengths
+## Career Direction
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### AI Research & Modeling
-- Molecular prediction with SMILES data
-- Audio classification and feature extraction
-- Medical and business tabular classification
-- Model comparison and performance tracking
+### Drug & Molecular AI
+
+- SMILES-based modeling
+- Molecular descriptors and fingerprints
+- Target/action feature integration
+- Side-effect and activity prediction
+- GNN and representation-learning interest
 
 </td>
 <td width="33%" valign="top">
 
-### Experiment Engineering
-- Feature engineering and preprocessing
-- Validation metric design
-- k-fold and split strategy experiments
-- Reproducible training scripts
+### Medical Data AI
+
+- Tabular medical classification
+- Feature selection and scaling experiments
+- AUC, F1, accuracy, logloss tracking
+- Robust validation and model comparison
+- Competition-based medical AI experience
 
 </td>
 <td width="33%" valign="top">
 
-### Backend Development
-- Spring Boot REST/service architecture
-- JPA-based database design
-- Authentication and authorization
-- Docker-based deployment structure
+### Practical AI Systems
+
+- Backend service architecture
+- Database-backed workflows
+- Admin/user authorization
+- Research-to-service implementation
+- Military-service development experience
 
 </td>
 </tr>
@@ -58,9 +73,19 @@ I care about more than simply running models. I focus on building reproducible p
 
 ---
 
+## Highlights
+
+- **3rd Place** in a national-level medical AI competition project.
+- Built drug discovery and drug side-effect prediction pipelines using **SMILES, RDKit, Morgan fingerprints, Tanimoto similarity, AutoEncoder, LightGBM, XGBoost, and deep learning models**.
+- Completed **LG Aimers** and worked on applied machine learning with structured business data.
+- Continued development work during **military service**, with recognized career-relevant development experience.
+- Research-oriented background with long-term interest in **bio/medical AI, pharmaceutical AI, and computational drug discovery**.
+
+---
+
 ## Tech Stack
 
-### AI / Data
+### AI / Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -72,8 +97,9 @@ I care about more than simply running models. I focus on building reproducible p
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
+![AutoGluon](https://img.shields.io/badge/AutoGluon-AutoML-111827?style=flat-square)
 
-### Backend / Web
+### Backend / System Development
 
 ![Java](https://img.shields.io/badge/Java_17-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -87,157 +113,163 @@ I care about more than simply running models. I focus on building reproducible p
 
 ## Selected Projects
 
-### 1. Drug Discovery Prediction
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/Repository-dacon--drug--discovery--prediction2-181717?style=flat-square&logo=github)](https://github.com/castle9612/dacon-drug-discovery-prediction2)
+### Drug Discovery Prediction
 
-Molecular activity prediction project based on a drug discovery competition dataset.
+[Repository](https://github.com/castle9612/dacon-drug-discovery-prediction2)
 
-**What I worked on**
-- Built prediction pipelines using SMILES-based molecular data.
-- Compared RDKit descriptors, fingerprints, GNN-based representations, ChemBERTa, MolCLR, and tabular ensemble models.
-- Tested XGBoost, LightGBM, CatBoost, AutoGluon, and deep learning approaches.
-- Organized visual outputs such as feature importance, prediction scatter plots, and experimental result summaries.
+Molecular activity prediction project based on drug discovery data.
 
-**Keywords**  
-`Molecular Prediction` · `SMILES` · `RDKit` · `GNN` · `ChemBERTa` · `MolCLR` · `XGBoost` · `AutoGluon`
+**Focus**
+- SMILES-based molecular modeling
+- RDKit descriptors and molecular fingerprints
+- GNN, ChemBERTa, MolCLR, and ensemble experiments
+- XGBoost, LightGBM, CatBoost, AutoGluon comparison
+- Feature importance and prediction visualization
 
----
+**Keywords:** `Drug Discovery` `SMILES` `RDKit` `GNN` `ChemBERTa` `MolCLR`
 
-### 2. Drug Side Effect Prediction
+</td>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/Repository-drug--side--effect-181717?style=flat-square&logo=github)](https://github.com/castle9612/drug-side-effect)
+### Drug Side Effect Prediction
 
-Research-oriented project for predicting drug side effects by combining molecular structure and target action features.
+[Repository](https://github.com/castle9612/drug-side-effect)
 
-**What I worked on**
-- Combined SMILES-based drug representations with target action matrix features.
-- Compared MLP, LightGBM, XGBoost, and Two-Tower architectures.
-- Applied AutoEncoder-based dimensionality reduction, Tanimoto similarity, k-fold validation, and drug-based split strategies.
-- Recorded final benchmark performance of **F1 0.6711 / Accuracy 0.7273**.
+Research-oriented prediction project combining molecular structure and target-action information.
 
-**Keywords**  
-`Drug Side Effect` · `SMILES` · `Target Action` · `AutoEncoder` · `Tanimoto Similarity` · `Two-Tower` · `LightGBM` · `XGBoost`
+**Focus**
+- SMILES representation + target action matrix
+- Morgan fingerprint and Tanimoto similarity
+- AutoEncoder-based dimensionality reduction
+- MLP, LightGBM, XGBoost, Two-Tower architecture
+- Drug-based split and k-fold validation
 
----
+**Keywords:** `Side Effect Prediction` `Target Action` `Tanimoto` `AutoEncoder` `Two-Tower`
 
-### 3. Fake Voice Detection
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/Repository-fake__voice__detect-181717?style=flat-square&logo=github)](https://github.com/castle9612/fake_voice_detect)
+### KMU Brain
 
-Audio classification project for detecting fake or manipulated voices.
+[Repository](https://github.com/castle9612/kmu-brain)
 
-**What I worked on**
-- Designed preprocessing pipelines for MFCC, mel-spectrogram, spectrum, and statistical audio features.
-- Compared CNN/RCNN-based audio classifiers with TabNet-based tabular feature classification.
-- Structured the repository around reproducible scripts while excluding large regenerated arrays and checkpoints.
-- Included data quality checks such as zero-feature filtering.
+Medical/biological tabular classification experiment using TabNet.
 
-**Keywords**  
-`Audio Classification` · `MFCC` · `Mel-Spectrogram` · `Librosa` · `CNN` · `RCNN` · `TabNet`
+**Result:** 3rd Place
 
----
+**Focus**
+- TabNet-based medical data classification
+- RobustScaler, MinMaxScaler, StandardScaler comparison
+- AUC, logloss, best epoch, validation tracking
+- Feature-drop and feature-selection experiments
 
-### 4. KMU Brain TabNet
+**Keywords:** `Medical AI` `TabNet` `PyTorch` `AUC` `Feature Selection`
 
-[![Repo](https://img.shields.io/badge/Repository-kmu--brain-181717?style=flat-square&logo=github)](https://github.com/castle9612/kmu-brain)
+</td>
+<td width="50%" valign="top">
 
-Medical and biological tabular classification experiment using TabNet.  
-**Award: 3rd Place**
+### Fake Voice Detection
 
-**What I worked on**
-- Built TabNet-based classification experiments for medical/biological tabular features.
-- Compared preprocessing strategies using RobustScaler, MinMaxScaler, and StandardScaler.
-- Tracked validation AUC, logloss, best epoch, and best validation performance.
-- Managed feature-drop candidates to support repeated feature selection experiments.
+[Repository](https://github.com/castle9612/fake_voice_detect)
 
-**Keywords**  
-`Tabular Classification` · `TabNet` · `PyTorch` · `AUC` · `Feature Selection` · `Medical Data`
+Audio classification project for detecting manipulated or synthetic voice data.
 
----
+**Focus**
+- MFCC, mel-spectrogram, spectrum, and statistical audio features
+- CNN/RCNN-based audio classification
+- TabNet-based tabular feature classification
+- Data quality checks and reproducible scripts
 
-### 5. LG Aimers Sales Conversion
+**Keywords:** `Audio AI` `MFCC` `Mel-Spectrogram` `CNN` `RCNN` `TabNet`
 
-[![Repo](https://img.shields.io/badge/Repository-lg__Aimers-181717?style=flat-square&logo=github)](https://github.com/castle9612/lg_Aimers)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Machine learning project for predicting sales opportunity conversion.
+### LG Aimers
 
-**What I worked on**
-- Modeled sales conversion using customer, product, and inquiry-related features.
-- Tested XGBoost and Gradient Boosting based classification models.
-- Built validation flows using accuracy, F1-score, and AUROC.
-- Created a Tkinter-based GUI for quick column distribution analysis during EDA.
+[Repository](https://github.com/castle9612/lg_Aimers)
 
-**Keywords**  
-`Sales Conversion` · `Classification` · `XGBoost` · `Gradient Boosting` · `Feature Importance` · `Tkinter`
+Applied machine learning project for sales opportunity conversion prediction.
 
----
+**Focus**
+- Structured data preprocessing
+- XGBoost and Gradient Boosting classification
+- Accuracy, F1-score, and AUROC evaluation
+- EDA support with a Tkinter-based GUI
 
-### 6. Reservation Web Service
+**Keywords:** `Applied ML` `Classification` `XGBoost` `EDA` `Feature Importance`
 
-[![Repo](https://img.shields.io/badge/Repository-reservation-181717?style=flat-square&logo=github)](https://github.com/castle9612/reservation)
+</td>
+<td width="50%" valign="top">
 
-Full-stack reservation management service for therapy/body care scheduling.
+### Reservation Web Service
 
-**What I worked on**
-- Developed a backend using Spring Boot 3.2, Java 17, Spring Security, Spring Data JPA, and MySQL 8.
-- Implemented reservation flow, user management, admin features, and database-backed service logic.
-- Built a hybrid structure with React + Vite for user-facing pages and server-rendered admin pages.
-- Added Docker Compose, `.env.example`, Nginx reverse proxy examples, and deployment documentation.
+[Repository](https://github.com/castle9612/reservation)
 
-**Keywords**  
-`Spring Boot` · `Spring Security` · `JPA` · `MySQL` · `React` · `Docker` · `Reservation System`
+Full-stack reservation management service built with Spring Boot and database-backed workflows.
 
----
+**Focus**
+- Spring Boot 3.2, Java 17, Spring Security, JPA, MySQL
+- User/admin reservation workflow
+- Authentication, authorization, and service-layer design
+- React + Vite frontend and deployment-oriented structure
 
-### 7. KakaoTalk Chat Analyzer
+**Keywords:** `Spring Boot` `JPA` `MySQL` `Security` `React` `Docker`
 
-[![Repo](https://img.shields.io/badge/Repository-kakaotalk__analyze-181717?style=flat-square&logo=github)](https://github.com/castle9612/kakaotalk_analyze)
-
-GUI tool for analyzing exported KakaoTalk chat logs.
-
-**What I worked on**
-- Parsed KakaoTalk text exports and analyzed chat count, activity by period, user-level statistics, word frequency, and word clouds.
-- Built a Tkinter GUI for file selection, date range filtering, and user-specific analysis.
-- Organized execution guidance for Windows distribution using PyInstaller.
-
-**Keywords**  
-`Python` · `Tkinter` · `Pandas` · `WordCloud` · `Matplotlib` · `Text Analysis`
+</td>
+</tr>
+</table>
 
 ---
 
-## Algorithm & Computer Science Practice
+## Research & Development Themes
 
-[![Repo](https://img.shields.io/badge/Repository-backjoon-181717?style=flat-square&logo=github)](https://github.com/castle9612/backjoon)
-
-I maintain algorithm problem-solving records to strengthen computer science fundamentals, including data structures, implementation, search, sorting, and dynamic programming.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=castle9612&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=castle9612&layout=compact&theme=transparent&hide_border=true)
-
-</div>
+```text
+Molecular Representation        SMILES, RDKit descriptors, Morgan fingerprints, molecular embeddings
+Drug Prediction Tasks            Activity prediction, side-effect prediction, target/action integration
+Medical AI                       Tabular classification, feature selection, robust validation
+Experiment Engineering           k-fold, drug-based split, metric tracking, reproducible pipelines
+Backend Systems                  Spring Boot, JPA, MySQL, authentication, admin workflows
+```
 
 ---
 
-## Portfolio Direction
+## Current Interest
 
-My projects can be summarized into three main directions.
+I am currently building my career toward **medical and pharmaceutical AI**, especially projects that connect:
 
-| Direction | Description |
-|---|---|
-| **AI Research & Modeling** | Experimenting with molecular, audio, medical, business, and tabular data across multiple model families. |
-| **Experiment Engineering** | Managing preprocessing, feature extraction, validation metrics, model comparison, visualization, and reproducible scripts. |
-| **Backend Service Development** | Building Spring Boot-based services with authentication, database design, admin workflows, frontend integration, and deployment structure. |
+- molecular structure data and drug-response prediction,
+- biological or clinical tabular data and explainable ML,
+- graph-based molecular modeling and representation learning,
+- deployable AI-backed healthcare or research support systems.
+
+The long-term goal is to work on AI systems that are not just leaderboard decorations, but useful tools for biomedical research, pharmaceutical analysis, and healthcare decision support. Humanity may yet survive the spreadsheet era.
+
+---
+
+## Additional Repositories
+
+- [kakaotalk_analyze](https://github.com/castle9612/kakaotalk_analyze) · Python GUI tool for KakaoTalk chat-log analysis
+- [backjoon](https://github.com/castle9612/backjoon) · Algorithm and computer science practice records
+- [project_x_stock_project](https://github.com/castle9612/project_x_stock_project) · Java-based team project
+- [reserve_web](https://github.com/castle9612/reserve_web) · Earlier Java reservation web project
+- [softwareplan](https://github.com/castle9612/softwareplan) · Software design coursework project
 
 ---
 
 ## Contact
 
-- GitHub: [github.com/castle9612](https://github.com/castle9612)
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-castle9612-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/castle9612)
+[![Email](https://img.shields.io/badge/Email-castle9612%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castle9612@gmail.com)
+
+</div>
